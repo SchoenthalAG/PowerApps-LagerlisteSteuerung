@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.104475mm"
+   height="15.668053mm"
+   viewBox="0 0 22.104475 15.668053"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Sprosse GT FV 65.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <sodipodi:guide
+       position="-85.108644,159.76284"
+       orientation="0,793.70079"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="124.89135,159.76284"
+       orientation="1122.5197,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="124.89135,-137.23715"
+       orientation="0,-793.70079"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-85.108644,-137.23715"
+       orientation="-1122.5197,0"
+       id="guide4"
+       inkscape:locked="false" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="22.104475"
+       height="15.668053"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.108647,-139.35687)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.462463px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 105.20842,139.5881 -19.868542,11.31576 m 0,0 v 0.35374 m 0,0 v 2.82929 m 0,0 0.354832,0.35374 m 0,0 1.418636,-1.06124 m 0,0 v -1.41429 m 0,0 14.191914,-8.13342 m 0,0 0.35483,0.35375 m 0,0 v 2.47554 m 0,0 -2.12899,1.06055 m 0,0 v 0.35374 m 0,0 0.70966,1.4143 m 0,0 h 0.35484 m 0,0 1.06449,-0.7068 m 0,0 1.77417,1.06055 m 0,0 v 2.12179 m 0,0 -1.0645,0.70749 m 0,0 v 0.35305 m 0,0 1.0645,1.41499 m 0,0 v 0.35306 m 0,0 h 3.1928 m 0,0 0.35483,-0.35306 m 0,0 -0.35483,-0.35374 m 0,0 h -1.0645 m 0,0 v -5.30413 m 0,0 -0.35414,-0.35375 m 0,0 -1.77416,-0.70749 m 0,0 v -0.35375 m 0,0 v -4.59664 m 0,0 1.77416,-1.06124 m 0,0 0.35414,-0.35374 m 0,0 v -1.4143 m 0,0 -0.35414,-0.35375"
+       id="path1" />
+  </g>
+</svg>
